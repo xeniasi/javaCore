@@ -1,0 +1,5 @@
+interface Course {
+
+    String getCourseName();
+
+}
